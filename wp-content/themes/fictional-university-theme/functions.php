@@ -228,5 +228,4 @@ add_filter('ai1wm_exclude_themes_from_export', function ($exclude_filters) {
     return $exclude_filters;
 });
 
-
 ?>
